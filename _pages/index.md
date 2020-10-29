@@ -1,42 +1,11 @@
 ---
 layout: default
-title: Zalando Open Source
+title: GfK Open Source
 permalink: /
 banner:
   height: 450px
 ---
 
-<section class="dc--text-center page-section
-page-section--background-highlight" style="padding: 30px 0 30px 0" id="os-projects">
-  <div class="dc-container dc-container--limited">
-    <a href="/docs/reports/2019/january-2019/">
-    <h2 class="dc-h2">
-    State of open source at Zalando 2018 Report is now available
-    </h2>
-    <p class="dc-p">
-    A closer look at the numbers, insights and initiatives for open source at Zalando in 2018
-    </p>
-    </a>
-  </div>
-</section>
-
-<section class="dc--text-center page-section page-section--padding page-section--background-white" id="os-projects">
-  <div class="dc-container dc-container--limited">
-    <h1 class="dc-h1 page-section__header">Projects</h1>
-
-    <div id="catwatch-statistics" class="statistics"></div>
-
-    <div class="projects__wrapper" id="projectsWrapper">
-      <div class="spinner-overlay" id="spinner">
-        <div class="dc-spinner"></div>
-      </div>
-      <div id="catwatch-projects" class="projects"></div>
-    </div>
-
-    <a class="dc-btn dc-btn--primary" href="projects/index.html">Explore All Projects</a>
-
-  </div>
-</section>
 
 <section class="dc--text-center page-section page-section--padding page-section--background page-section--background-gradient strategy" id="os-goals">
   <div class="dc-container dc-container--limited">
@@ -45,10 +14,10 @@ page-section--background-highlight" style="padding: 30px 0 30px 0" id="os-projec
     </h1>
 
     <p class="dc-p strategy__subtitle">
-      The Open Source Team works across departments at Zalando to scale open culture and
-      promote best practices of Open Source development. We ensure that Zalando is
+      The Open Source Team works across departments at GfK to scale open culture and
+      promote best practices of Open Source development. We ensure that GfK is
       a good Open Source citizen, from understanding and respecting Open Source licensing to enabling
-      Zalando employees to take active part in the creation of Open Source.
+      GfK employees to take active part in the creation of Open Source.
     </p>
 
     <br>
@@ -61,7 +30,7 @@ page-section--background-highlight" style="padding: 30px 0 30px 0" id="os-projec
         <h2 class="dc-h2">Participate</h2>
         <p class="dc-p">
             We invest in and contribute to Open Source projects which are important to us.
-            We encourage Zalando employees to get involved in Open Source.
+            We encourage GfK employees to get involved in Open Source.
         </p>
       </div>
 
@@ -96,44 +65,25 @@ page-section--background-highlight" style="padding: 30px 0 30px 0" id="os-projec
 <section class="page-section page-section--padding page-section--background-white jobs" id="os-jobs">
   <div class="dc-container dc-container--limited">
     <h1 class="dc-h1 page-section__header page-section__header--center">Jobs</h1>
-    
-    
+
+
     <div class="dc-row job">
-    
+
       <h3 class="dc-h2">
         Currently no open positions
       </h3>
-      
+
       <p class="dc-p">
-        We do not currently have any open positions, but don't hesitate getting in touch with us anyway, 
-        we are always interested in hearing from potential candidates - 
-        reach us at <a href="mailto:opensource@zalando.de">opensource@zalando.de</a>  
+        We do not currently have any open positions, but don't hesitate getting in touch with us anyway,
+        we are always interested in hearing from potential candidates -
+        reach us at <a href="mailto:oss@gfk.com">oss@gfk.com</a>
       </p>
-      
+
     </div>
-    
-    
+
+
   </div>
 </section>
 
 
 {% include recent-posts.html %}
-
-<section class="dc--text-center page-section page-section--padding page-section--background-white team" id="os-team">
-  <div class="dc-container dc-container--limited">
-    <h1 class="dc-h1 page-section__header">The Team</h1>
-    <div id="os-team-data" class="users"></div>
-  </div>
-</section>
-
-<script src="{{ 'components/user.js' | relative_url }}" type="text/javascript"></script>
-
-<script type="text/javascript">
-  async function init() {
-    await displayStatistics();
-    await displayProjects();
-    displayTeam();
-  }
-  
-  init();
-</script>

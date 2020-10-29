@@ -8,31 +8,27 @@ banner:
 category: Resources
 ---
 
-#### All Zalandos open source projects are hosted on GitHub under one of the Zalando organizations. We have a number of guidelines for how to use GitHub and what the different organizations are used for.
+#### All GfKs open source projects are hosted on GitHub under the GfK organization. We have a number of guidelines for how to use GitHub and what the different organizations are used for.
 
 ### Summary
 
-* The incubator is where all new open source projects start
-* You join the Github organizations via [people.Zalando.net](http://people.zalando.net
 * We have clear ownership - one project - one team
 * We review all code and encourage Git-Flow
-* Projects can have contributors from outside Zalando
+* Projects can have contributors from outside GfK
 
 ---
 
 ## Organizations
 
-There are 2 primary organizations which act as the central source for Zalando open source projects and 4 project/topic specific organizations. With very few exceptions the Zalando-Incubator is the organization where new projects will initially be published.
+There is 1 primary organization which acts as the central source for GfK open source projects.
 
-* [Zalando-Incubator](https://github.com/zalando-incubator) - Incubator of new projects which have not yet matured enough to be on the main org.
-* [Zalando](https://github.com/zalando) - The primary organization hosting mature projects already graduated from the incubator
-* [ZalandoResearch](https://github.com/zalandoresearch) - Organization hosting data and projects released by the Zalando research team
-* [Zalando-Nakadi](https://github.com/zalando-nakadi) - Projects related to Nakadi - a distributed event bus
-* [Zalando-STUPS](https://github.com/zalando-stups) - Projects related to the Zalando STUPS platform
+* [GfK](https://github.com/GfKSE)
 
-## Joining Zalando on GitHub
 
-For all Zalandos the process is simple: go to the **internal** site at [people.Zalando.net](http://people.zalando.net) and register your GitHub username, you will then automatically be invited into the organizations, the sync happens once a day. To get an invite you will need to have two-factor authentication enabled. After you joined the organization you need to change your [membership visibility](https://github.com/orgs/zalando/people) from `Private` to `Public`.
+## Joining GfK on GitHub
+
+For all GfK employees the process is simple: Just reach out to oss@gfk.com to be added
+to the GfK Github organization.
 
 ## Organization permissions
 
@@ -53,12 +49,8 @@ Each published project have a dedicated team of maintainers. The maintainer team
 
 ## External collaborators
 
-All projects can have external contributors, maintainers are free to invite contributors from outside of Zalando to join as an external contributor. This is a matter of judgment by the individual project team.
+All projects can have external contributors, maintainers are free to invite contributors from outside of GfK to join as an external contributor. This is a matter of judgment by the individual project team.
 
-## Employees leaving Zalando
+## Employees leaving GfK
 
-Zalando employees leaving Zalando will be converted to external contributors. External Contributors cannot be a Codeowner as this violates the rules of play, and can therefore not accept and merge pull requests, but can still comment on code as part of reviews.
-
-## Process for graduating from Zalando-Incubator
-
-The open source review group acts as the gatekeeper of which projects are ready to be accepted into the Zalando-incubator organization. Furthermore the review group decides which projects are mature to graduate to the main Zalando organization.
+GfK employees leaving GfK will be converted to external contributors. External Contributors cannot be a Codeowner, and can therefore not accept and merge pull requests, but can still comment on code as part of reviews.

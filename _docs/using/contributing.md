@@ -7,7 +7,7 @@ banner:
 category: Using
 ---
 
-#### We encourage participation in open source projects and strive to have as few rules for this as possible, we expect Zalandos to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your lead.
+#### We encourage participation in open source projects and strive to have as few rules for this as possible, we expect GfK employees to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your lead.
 
 ### Summary
 
@@ -15,25 +15,23 @@ category: Using
 * Make sure you don't share confidential information
 * Don't contribute code which gives us an edge over competitors
 * Only sign [whitelisted CLAs](#whitelisted-clas) - ask the open source team or legal for guidance
-* Find projects to contribute to on the [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
 
 ---
 
 ## Common contribution rules
 
-* Do not share customer data or confidential Zalando information
-* Code that cannot be contributed upstream
+* Do not share customer data or confidential GfK information
+* Code that e.g. cannot be contributed upstream
   * confidential source code
   * recommendation algorithms
-  * search functionalities that give us an edge over competitors
-* Remember that Zalando legally have ownership over your contributions as you are an employee of Zalando SE
+* Remember that GfK legally have ownership over your contributions as you are an employee of GfK SE
 
 ## Non-code contributions
 
 Contributions such as reporting issues, writing documentation, reviewing code and participating
 in project maintenance such as creating roadmaps, grooming backlogs etc.
 
-These activities are all sanctioned and encouraged as part of your employment at Zalando.
+These activities are all sanctioned and encouraged as part of your employment at GfK.
 
 ## Code contributions
 
@@ -45,13 +43,8 @@ open source projects in our tech stack. Code contributions can generally be divi
 
 Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.
 
-## Finding projects to contribute to
-
-We recommend taking a look at the [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/) to get an overview of the projects we actively use, which would be an obvious starting point
-for contributions.
-
 ## Whitelisted CLAs
-If a non-Zalando open source project asks you to sign a contributor agreement, get it cleared with the open source team, unless it is one of the following which have been whitelisted:
+If a non-GfK open source project asks you to sign a contributor agreement, get it cleared with the open source team, unless it is one of the following which have been whitelisted:
 
 - Apache CLA
 - Project Harmony Contributor Agreements

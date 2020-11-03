@@ -7,7 +7,7 @@ banner:
 category: Using
 ---
 
-#### Most open source code can be used in Zalando projects, but everyone has a responsibility to ensure that we respect and comply with the licenses. 
+#### Most open source code can be used in GfK projects, but everyone has a responsibility to ensure that we respect and comply with the licenses.
 
 
 ## [Contributing](../contributing)

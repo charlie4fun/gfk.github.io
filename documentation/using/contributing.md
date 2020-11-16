@@ -1,11 +1,4 @@
----
-title: Contributing upstream
-author: OST
-date: 2017-08-30
-banner:
-  image: coding.jpg
-category: Using
----
+# Contributing upstream
 
 #### We encourage participation in open source projects and strive to have as few rules for this as possible, we expect GfK employees to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your lead.
 
@@ -41,12 +34,14 @@ open source projects in our tech stack. Code contributions can generally be divi
 * Contributions triggered by a work task: eg. a dependency have a bug or shortcoming which block your work
 * Contributions on your own initiative
 
-Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.
+Both are sanctioned and does not require a review, unless repository to which you want to contribute demands otherwise.
+Simply ensure that the project you are contributing to is not licensed under AGPL.
 
 ## Whitelisted CLAs
-If a non-GfK open source project asks you to sign a contributor agreement, get it cleared with the open source team, unless it is one of the following which have been whitelisted:
+If a non-GfK open source project asks you to sign a contributor agreement, get it cleared with the open source team,
+unless it is one of the following which have been whitelisted:
 
-- Apache CLA
+- Apache CLA  # TODO(charlie4fun): should following CLAs be reviewed?
 - Project Harmony Contributor Agreements
 - Mozilla Comitters Agreement
 - Adobe Open Source Contributor Agreement

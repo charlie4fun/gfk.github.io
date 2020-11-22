@@ -1,12 +1,5 @@
----
-title: Github structure
-author: OST
-date: 2017-08-30
-index: 1
-banner:
-  image: coding.jpg
-category: Resources
----
+# Github structure
+
 
 #### All GfKs open source projects are hosted on GitHub under the GfK organization. We have a number of guidelines for how to use GitHub and what the different organizations are used for.
 

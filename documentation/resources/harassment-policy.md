@@ -1,10 +1,4 @@
----
-title: Harassment Policy
-author: OST
-date: 2019-01-31
-index: 5
-category: Resources
----
+# Harassment Policy
 
 #### When you as a GfK employee engage in open source communities as part of your work, you will interact with the wider open source communities outside GfK - this is generally a good experience and collaborating with many different types of people with diverse backgrounds is generally a positive input to your personal development.
 

@@ -1,9 +1,4 @@
----
-title: CoP Open Source
-author: OST
-date: 2018-06-07
-category: Resources-teams
----
+# CoP Open Source
 
 #### The Open Source Community of Practice is an autonomous employee interest group across teams at GfK discussing and advocating Open Source
 

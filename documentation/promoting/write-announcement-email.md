@@ -1,12 +1,5 @@
----
-title: Write an announcement email 
-author: OST
-date: 2018-09-25
-index: 1
-banner:
-  image: coding.jpg
-category: Promoting
----
+# Write an announcement email 
+
 Mailing list is a common channel to reach out to a big group of audience, especially some tech communities. This article includes some tips that help you with writing a release/announcement email:
 
 ## Subject 

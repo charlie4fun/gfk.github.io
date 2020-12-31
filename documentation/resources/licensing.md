@@ -4,13 +4,13 @@
 
 ### Summary
 
-* Any dependency with a **permissive license** can be used
-* For internal projects, **Permissive, Strong and Weak Copyleft licensed** code can be used
-* For open source projects, **Strong Copyleft** licensed code cannot be used
-* Make sure to investigate the specific terms of the **weak copyleft** licenses
-* You cannot use **AGPL or variants** thereof licensed code anywhere
-* You cannot use **Commons Clause** licensed code anywhere
-* You cannot use **unlicensed code** anywhere
+* Any dependency with a **permissive license** can be used.
+* For internal projects, **Permissive, Strong and Weak Copyleft licensed** code can be used.
+* For open source projects, **Strong Copyleft** licensed code cannot be used.
+* Make sure to investigate the specific terms of the **weak copyleft** licenses.
+* You cannot use **AGPL or variants** thereof licensed code anywhere.
+* You cannot use **Commons Clause** licensed code anywhere.
+* You cannot use **unlicensed code** anywhere.
 
 ---
 
@@ -29,9 +29,9 @@ And 3 types which you cannot use in any way:
 * [Unlicensed code](#unlicensed-code)
 
 
-This document is a general overview and does not represent legal advice. Always check the details of each license and if you are in doubt, get in touch with the Open Source Team.
+This document is a general overview and does not represent legal advice. Always check the details of each license and if you are in doubt, get in touch with the Open Source CoP.
 
-If you wish to use a dependency with a license not listed in this guidance, please get in touch with the open source team for guidance.
+If you wish to use a dependency with a license not listed in this guidance, please get in touch with the Open Source CoP for guidance.
 
 ## Permissive licenses
 
@@ -49,7 +49,7 @@ _[AFL](https://tldrlegal.com/l/afl3),
 and many more_
 
 * You are free to: **use** commercially, **modify**, **distribute** and **sublicense**.
-* You must include: **copyright** and **license**
+* You must include: **copyright** and **license**.
 * You cannot hold the author liable.
 
 ## Weak copyleft licenses
@@ -66,8 +66,8 @@ _[APSL](https://tldrlegal.com/l/aspl2),
 [MPL](https://tldrlegal.com/l/mpl-2.0)_
 
 * You are free to: **use** commercially, **modify**, **distribute** and **sublicense**.
-* You must include: **copyright**, **license**, **changelog**, **source code** and **install instructions**
-* You cannot hold the author liable or use authors trademarks
+* You must include: **copyright**, **license**, **changelog**, **source code** and **install instructions**.
+* You cannot hold the author liable or use authors trademarks.
 
 ## Strong Copyleft licenses
 
@@ -82,9 +82,9 @@ _BCL,
 [OSL](<https://tldrlegal.com/license/open-software-license-2.1-(osl-2.1)>),
 [QPL](<https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)>) and more_
 
-* You are free to: **use** commercially, **modify** and **distribute**
-* You must include: **copyright**, **license**, **source code**, **changelog**, **original source** and **install instructions**
-* You cannot hold the author liable or sublicense
+* You are free to: **use** commercially, **modify** and **distribute**.
+* You must include: **copyright**, **license**, **source code**, **changelog**, **original source** and **install instructions**.
+* You cannot hold the author liable or sublicense.
 * If distributed, you must license your code under the same license.
 
 ## Code licensed under AGPL or variants thereof

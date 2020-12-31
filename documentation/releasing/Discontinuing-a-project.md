@@ -1,10 +1,4 @@
----
-title: Discontinuing a project
-author: OST
-date: 2020-02-05
-index: 3
-category: Releasing
----
+# Discontinuing a project
 
 **Overview of the different options for discontinuing a GfK open source project, this process is to
 be used for projects which no longer have active maintainers, or projects which GfK no longer have a motivation

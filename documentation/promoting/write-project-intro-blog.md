@@ -1,12 +1,4 @@
----
-title: Write a project introduction blog 
-author: OST
-date: 2018-09-25
-index: 1
-banner:
-  image: coding.jpg
-category: Promoting 
----
+# Write a project introduction blog
 
 Writing blog posts about your new project could help attract more visitors to your repo or website, educate prospective users and attract potential contributors. In this article, we recommend a list of topics that you might want to include in your Introduction Blog Post. 
 
@@ -14,11 +6,11 @@ Our standard blog post includes 3 parts: First Impression, Main Content and More
 
 ## Part 1: First Impression <> Grab reader’s attention 
 * **Blog Title**: When you write a title, you might want to think of ‘Google search’. What keywords readers likely to use when they search for particular information. Reports shows that How-to articles generate very good hits.
-E.g. How to ... with *[Project Name]*
+E.g. How to ... with *[Project Name]*.
 
 * **Subhead/Tag line**: a catchphrase or slogan, could be something funny that triggers reader’s curiosity. 
 
-* **Short overview**: explain what is your project about and the reasons why you want to share this project to readers. (3 - 4 sentences)
+* **Short overview**: explain what is your project about and the reasons why you want to share this project to readers in 3 - 4 sentences.
  
 ## Part 2: Main Content <> Educate and convince readers 
 * Description: First, you could start with the story of how the project was made. People are often intrigued by origin stories and how things are made e.g. where did the idea for this new project come from? Who were the people behind it coming to realization? What’s the actual development process that puts all of the pieces together to create the final project. 
@@ -34,7 +26,7 @@ Then, describe some cool features of the project. Tie those features with the be
 * Language: list all the programming languages used in this project. 
 * Source: Repo link, project website, installation guide or documentation links.
 
-A good example how Google features open source projects 
+A good example how Google features open source projects:
 
 ![Example](/assets/img/kubernetes.png)
 

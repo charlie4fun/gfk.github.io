@@ -1,12 +1,5 @@
----
-title: Utilize promotion channels
-author: OST
-date: 2018-09-24
-index: 1
-banner:
-  image: coding.jpg
-category: Promoting
----
+# Utilize promotion channels
+
 Promotion channel is a website or an online platform where you can publish your content with the purpose of reaching out to visitors, readers or users. This article covers list of recommended services that you might want to explore.
 
 ## Content Distribution Channels
@@ -31,8 +24,8 @@ To push your content to these channels, you need to create an account, mostly fr
 
 
 **[Opensource.com](https://opensource.com)** is maintained by Red Hat. It provides a variety of topics around open source. It offers a section where community writers can submit their content. However the process is a bit complicated.
-* First, you submit a [topic proposal](https://opensource.com/how-submit-article) and wait for their feedback
-* Second, you need to send a draft article for review to **open@opensource.com**
+* First, you submit a [topic proposal](https://opensource.com/how-submit-article) and wait for their feedback.
+* Second, you need to send a draft article for review to **open@opensource.com**.
 * Additionally, you might also want to review their [submission guideline](https://opensource.com/submission-style-guide).
 
 ## Event Promotion and Management Tools

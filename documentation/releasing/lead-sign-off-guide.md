@@ -1,14 +1,6 @@
----
-title: Sign-off guide for leads
-author: OST
-date: 2017-08-30
-index: 5
-banner:
-  image: coding.jpg
-category: Releasing
----
+# Sign-off guide for leads
 
-#### As a lead inside of GfK tech, you will from time to time be asked by your directs if you can support open sourcing an internal codebase. This can be a difficult question to answer, so to guide your decision-making, this handy guide has been put together.
+#### As a lead inside of GfK, you will from time to time be asked by your directs if you can support open sourcing an internal codebase. This can be a difficult question to answer, so to guide your decision-making, this handy guide has been put together.
 
 ### Summary
 To determine if a project can be open sourced, you should be able to answer **“yes“** to the following 3 questions, background information on each are provided in sections below:
@@ -22,11 +14,11 @@ To determine if a project can be open sourced, you should be able to answer **�
 ### Value of ownership
 Simply put, does GfK gain anything from open sourcing this code? There can be several direct or indirect ways GfK benefits, as listed below:
 
-- **Internal use**: The code is used inside GfK and there is a vested interest in long term maintenance
-- **Employer branding**: Project gives an insight into the scale and problem-solving of GfK tech.
-- **Hiring**: contributors and users of the project could be attractive job candidates
-- **Learning**: GfK employees can collaborate with and learn from external experts on the topic
-- **Enhancement**: the project could gain new functionality and refinement by external use and contribution
+- **Internal use**: The code is used inside GfK and there is a vested interest in long term maintenance.
+- **Employer branding**: Project gives an insight into the scale and problem-solving of GfK.
+- **Hiring**: contributors and users of the project could be attractive job candidates.
+- **Learning**: GfK employees can collaborate with and learn from external experts on the topic.
+- **Enhancement**: the project could gain new functionality and refinement by external use and contribution.
 
 Does all these apply to all projects GfK release - in short: no, so also consider if the project is too GfK-specific, too esoteric or simply does not have a realistic user base outside GfK.
 
@@ -39,11 +31,11 @@ An open source project requires maintenance, and therefore developer time and re
 ### Confidentiality
 There are certain components inside of GfK which we simply do not want to release to the world, the following strong indicates when we do not wish to open source code:
 
-- **Secret Sauce**: This project powers essential customer experiences, it contains algorithms
+- **Secret Sauce**: This project powers essential customer experiences, it contains algorithms.
 - **Uses confidential data**: the project processes or relies on customer or employee data which cannot be exposed.
 - **Only useful to competitors**: the topic of this project is not useful outside GfK -  except our competitors.
 
 ### Additional Guidance
-If you are any need of guidance before signing off on open source project, reach out to the open source team, we are happy to help.
+If you are any need of guidance before signing off on open source project, reach out to the Open Source CoP, we are happy to help.
 
-Also, all projects which are applying to be open sourced will be reviewed by the open source team and the open source review group who will raise any additional questions with you are the maintainers.
+Also, all projects which are applying to be open sourced will be reviewed by the Open Source CoP and the open source review group who will raise any additional questions with you are the maintainers.

@@ -1,25 +1,17 @@
----
-title: Releasing a new open source project
-author: OST
-date: 2018-06-14
-index: 1
-banner:
-  image: coding.jpg
-category: Releasing
----
+# Releasing a new open source project
 
-#### This is the process for how GfK employees release a new open source project on the GfK Github organisation. The process is simple and the open source team is ready to help you every step of the way.
+#### This is the process for how GfK employees release a new open source project on the GfK Github organisation. The process is simple and the Open Source CoP is ready to help you every step of the way.
 
 ---
 
 ## Overview
 
-Releasing a new open source project is a simple and fast process when you are already following Zalandos rules of play:
+Releasing a new open source project is a simple and fast process when you are aligned with following rules of play:
 
-* [Get Sign-off](#get-sign-off): Ensure you have organizational buy-in from your lead and that your project is possible to open source
-* [Be Compliant](#be-compliant): Ensure your project is compliant with rules of play and open source best practices
-* [Prepare your repository](#prepare-your-repository): Clean up and refactor your code to work outside the Zalando environment.
-* [Get Reviewed](#get-reviewed): The Zalando open source review group is responsible for reviewing your project
+* [Get Sign-off](#get-sign-off): Ensure you have organizational buy-in from your lead and that your project is possible to open source.
+* [Be Compliant](#be-compliant): Ensure your project is compliant with rules of play and open source best practices.
+* [Prepare your repository](#prepare-your-repository): Clean up and refactor your code to work outside the GfK environment.
+* [Get Reviewed](#get-reviewed): The Open Source CoP is responsible for reviewing your project.
 
 
 <br>
@@ -45,7 +37,7 @@ Anything that risks GfK's competitive advantage is not permissible for publicati
 * recommendation algorithms
 * machine learning models
 
-If you are in doubt, reach out to the GfK [Open Source Team](/docs/resources/open-source-team/) or talk to your lead.
+If you are in doubt, reach out to the GfK [Open Source CoP](/docs/resources/open-source-cop.md) or talk to your lead.
 
 
 ## Be Compliant
@@ -56,34 +48,34 @@ Compliance covers the area of ensuring that we follow a safe and consistent prac
 
 Use [new-project](https://github.com/gfkse/new-project) as a boilerplate for the files required for your project. These files are needed to correctly communicate ownership and guidelines for the project:
 
-1.  Create a meaningful `README.md` file, this is your most important piece of documentation
-2.  Include a `MAINTAINERS.md` file with contact information
-3.  Include a `CONTRIBUTION.md` file with guidelines on how to contribute
-4.  Include a `SECURITY.md` file
-5.  Add a `LICENSE.md` file, license must a license with the copyright set to GfK SE
-6.  Ensure you only use license-compatible code/dependencies (see [licensing](../../resources/licensing))
+1.  Create a meaningful `README.md` file, this is your most important piece of documentation.
+2.  Include a `MAINTAINERS.md` file with contact information.
+3.  Include a `CONTRIBUTION.md` file with guidelines on how to contribute.
+4.  Include a `SECURITY.md` file.
+5.  Add a `LICENSE.md` file, license must a license with the copyright set to GfK SE.
+6.  Ensure you only use license-compatible code/dependencies (see [licensing](../../resources/licensing)).
 
-The open source team can help you setting this up during a initial review.
+The Open Source CoP can help you setting this up during a initial review.
 
 #### Use proper procedure for collaboration
 
 When the project has been released as a public project on Github the following workflows are expected of you:
 
 1.  Semantically version project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.
-2.  Sign-off every commit, as per the [DCO](https://developercertificate.org/) - PGP signing is not required
-3.  Ensure that no credentials, private identifiers or personal data is at any time present in your repository
+2.  Sign-off every commit, as per the [DCO](https://developercertificate.org/) - PGP signing is not required.
+3.  Ensure that no credentials, private identifiers, GfK internal links or personal data is at any time present in your repository.
 4.  Enforce code-reviews with at least 2 sets of GfK eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.
-5. Ensure there is an active team of maintainers of at least 2 GfK employees taking ownership of the project
+5.  Ensure there is an active team of maintainers of at least 2 GfK employees taking ownership of the project.
 
 
 ### Community best practices
 
 Besides the rules of play, there is also a set of best practices which we highly recommend you implement.
 
-1.  Have a code of conduct and enforce it to create a safe environment for collaboration
-2.  Set clear expectations for responses - let users know if your time is limited
-3.  Ask for help and be open to what kind of contributions would help your project
-4.  Be mindful of your documentation
+1.  Have a code of conduct and enforce it to create a safe environment for collaboration.
+2.  Set clear expectations for responses - let users know if your time is limited.
+3.  Ask for help and be open to what kind of contributions would help your project.
+4.  Be mindful of your documentation.
 
 [opensource.guide](https://opensource.guide/building-community/) has plenty more resources and recommendations for maintainers.
 
@@ -95,15 +87,15 @@ Default ownership of all code released by GfK employees are copyright GfK SE and
 
 Preparing a repository for open sourcing goes beyond ensuring it is in compliance with the rules above. This can include refactoring and documenting your code better to ensure that users and potential contributors can make sense of it.
 
-* Ensure you do not have any tokens, passwords or confidential data in your code
-* Ensure the code doesn't require any GfK-specific infrastructure or access, so users can use in their own environment
-* Ensure your code is clear and commented so newcomers can see what is going on
-* Ensure your dependencies are updated and does not have any known security issues
-* Ensure that it is easy to get up and running, not just on your machine
+* Ensure you do not have any tokens, passwords or confidential data in your code.
+* Ensure the code doesn't require any GfK-specific infrastructure or access, so users can use in their own environment.
+* Ensure your code is clear and commented so newcomers can see what is going on.
+* Ensure your dependencies are updated and does not have any known security issues.
+* Ensure that it is easy to get up and running, not just on your machine.
 
 ## Get Reviewed
 
-When you have checked off the compliance checklist and prepared your code for release, request a review from the [Open Source Review Group](/docs/resources/open-source-review-group/) who will help you setup a Github repository and sign off on open sourcing your code.
+When you have checked off the compliance checklist and prepared your code for release, request a review from the [Open Source Review Group](../resources/open-source-review-group.md) who will help you setup a Github repository and sign off on open sourcing your code.
 
 <br>
 <a href="mailto:oss@gfk.com">Submit your project for review (internal)</a>

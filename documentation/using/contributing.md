@@ -1,13 +1,13 @@
 # Contributing upstream
 
-#### We encourage participation in open source projects and strive to have as few rules for this as possible, we expect GfK employees to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your lead.
+#### We encourage participation in open source projects and strive to have as few rules for this as possible, we expect GfK employees to follow common sense on what code and information they contribute - if in doubt, contact the Open Source CoP, or talk to your lead.
 
 ### Summary
 
-* We encourage contributions upstream
-* Make sure you don't share confidential information
-* Don't contribute code which gives us an edge over competitors
-* Only sign [whitelisted CLAs](#whitelisted-clas) - ask the open source team or legal for guidance
+* We encourage contributions upstream.
+* Make sure you don't share confidential information.
+* Don't contribute code which gives us an edge over competitors.
+* Only sign [whitelisted CLAs](#whitelisted-clas) - ask the Open Source CoP or legal for guidance.
 
 ---
 
@@ -38,7 +38,7 @@ Both are sanctioned and does not require a review, unless repository to which yo
 Simply ensure that the project you are contributing to is not licensed under AGPL.
 
 ## Whitelisted CLAs
-If a non-GfK open source project asks you to sign a contributor agreement, get it cleared with the open source team,
+If a non-GfK open source project asks you to sign a contributor agreement, get it cleared with the Open Source CoP,
 unless it is one of the following which have been whitelisted:
 
 - Apache CLA  # TODO(charlie4fun): should following CLAs be reviewed?

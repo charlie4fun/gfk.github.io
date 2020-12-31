@@ -1,20 +1,12 @@
----
-title: Accepting contributions
-author: OST
-date: 2017-08-30
-index: 5
-banner:
-  image: coding.jpg
-category: Releasing
----
+# Accepting contributions
 
 #### After your project is released you may wish to accept contributions from fellow Gfk colleagues or the wider open source community. This is highly encouraged and each individual project team decides on which contributions go into their project.
 
 ### Summary
 
-* Make sure all commits are signed
-* Make sure at least 2 GfK employees have reviewed the changes
-* Readme.md and Contributing.md are the 2 most important documents, make sure they are good
+* Make sure all commits are signed.
+* Make sure at least 2 GfK employees have reviewed the changes.
+* Readme.md and Contributing.md are the 2 most important documents, make sure they are good.
 
 ---
 
@@ -22,18 +14,18 @@ category: Releasing
 
 New contributions must be submitted in the form of a pull-request which can then be reviewed by the project maintainers. As a project maintainer you must ensure the following standards are applied:
 
-1.  Sign every commit, as per the [CDO](https://developercertificate.org/) - PGP signing is not required
-2.  Ensure that no credentials, private identifiers or personal data is at any time present in your repository
+1.  Sign every commit, as per the [CDO](https://developercertificate.org/) - PGP signing is not required.
+2.  Ensure that no credentials, private identifiers or personal data is at any time present in your repository.
 3.  Enforce code-reviews with at least 2 sets of GfK eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.
 
 ## Have a clear workflow
 
 To encourage contributions, you must provide a clear guide for how contributions gets accepted into the codebase - this must all be outlined in the CONTRIBUTION.md file. To help new contributors get started with your project, have all this information outlined in the readme.md.
 
-* Document how to get the source code to build
-* Document the PR review process
-* Have a clear vision and scope for your project
-* Be responsive to issues and pull requests, even if it's to decline them
+* Document how to get the source code to build.
+* Document the PR review process.
+* Have a clear vision and scope for your project.
+* Be responsive to issues and pull requests, even if it's to decline them.
 
 ### Automatic git sign-off
 Git sign-off can be done by adding the `-s` flag to `git commit` commands. However non-commandline tooling often doesn't support this, in which case you can add a git hook to ensure your commits are signed - in the [global .git-hooks folder](https://github.com/git-hooks/git-hooks/wiki/Get-Started) add a file named `prepare-commit-msg`, add the following and ensure it has rights to execute:

@@ -1,23 +1,15 @@
----
-title: Organize a release party
-author: OST
-date: 2018-09-27
-index: 1
-banner:
-  image: coding.jpg
-category: Promoting
----
+# Organize a release party
 
 Hosting release party or an offline meeting is a great way to promote your open source project. This kind of events provide an opportunity for users and contributors living in the same area to come together as a community. The event format is varied. It can be a small meeting in a local coffee shop, a larger scale event with more people in attendance, an installation party, a series of workshops presentations, panels etc. Below is a step-by-step guide that aims to help you set-up a simple party in order to establish a closer connection with your colleagues, users and existing or future contributors.
 
 ### Step 1: Set a clear agenda
 Before you come up with an agenda for your event, you should set a clear goal of what you want to achieve or get out of this event. For instance:
 
-* To raise awareness of an initiative or a project
-* To present a new feature or announce a next gen. release
-* To acquire new users or new customers
-* To show people how to deploy an application
-* To show active users how to contribute to the projects
+* To raise awareness of an initiative or a project.
+* To present a new feature or announce a next generation release.
+* To acquire new users or new customers.
+* To show people how to deploy an application.
+* To show active users how to contribute to the projects.
 * To get people together to do some coding and fix bugs.
 
 **Example agenda:**
@@ -65,7 +57,7 @@ A few things that you can do:
 
 * Create a facebook event including your sign-up form.
 * Share a short announcement message on social media (refer to the social media tips).
-* Send an announcement email to relevant mailing lists
+* Send an announcement email to relevant mailing lists.
 
 ### Step 7: Send a reminder to attendees
 Be sure to send a reminder email with event agenda to the registered attendees at least one time before the event. Some people might forget what they sign up for.
